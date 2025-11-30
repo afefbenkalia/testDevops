@@ -157,7 +157,6 @@
             <h1>Technologies — DevOps & Design</h1>
             <div class="meta">Résumé rapide des outils et bonnes pratiques</div>
         </div>
-        <div class="meta">Serveur: <strong><%= request.getServerName() %></strong> • <%= serverTime %></div>
     </header>
 
     <section class="intro card">
